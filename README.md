@@ -18,8 +18,7 @@ timbre from a sine wave to a band-limited sawtooth.
 rtl/        VHDL sources (top level: polimorph.vhd)
 ```
 
-The Quartus project files (`.qpf`, `.qsf`), timing constraints (`.sdc`) and
-the two PLL IP variations (`pll33`, `pll_audio`) are required to build the
+The Quartus project files (`.qpf`, `.qsf`) and timing constraints (`.sdc`) are required to build the
 design.
 
 ## Controls
