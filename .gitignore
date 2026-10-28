@@ -1,0 +1,52 @@
+# ---------------------------------------------------------------------------
+# Quartus Prime build products
+# ---------------------------------------------------------------------------
+db/
+incremental_db/
+output_files/
+simulation/
+greybox_tmp/
+hc_output/
+qdb/
+tmp-clearbox/
+.qsys_edit/
+*.qws
+*.rpt
+*.summary
+*.smsg
+*.done
+*.jdi
+*.sld
+*.pin
+*.cdf.bak
+*.qarlog
+*.bak
+c5_pin_model_dump.txt
+PLLJ_PLLSPE_INFO.txt
+
+# Programming files (rebuild from sources; publish them as release assets)
+*.sof
+*.pof
+*.jic
+*.rbf
+
+# ---------------------------------------------------------------------------
+# Simulation
+# ---------------------------------------------------------------------------
+work/
+*.cf
+*.o
+*.ghw
+*.vcd
+*.wlf
+transcript
+modelsim.ini
+
+# ---------------------------------------------------------------------------
+# Editors / OS
+# ---------------------------------------------------------------------------
+*~
+*.swp
+.vscode/
+.DS_Store
+Thumbs.db

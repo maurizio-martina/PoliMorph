@@ -1,0 +1,17 @@
+# Normalise line endings in the repository; check out with native endings
+* text=auto eol=lf
+
+*.vhd   text eol=lf
+*.v     text eol=lf
+*.sv    text eol=lf
+*.sdc   text eol=lf
+*.tcl   text eol=lf
+*.qsf   text eol=lf
+*.qpf   text eol=lf
+*.qip   text eol=lf
+*.md    text eol=lf
+
+*.sof   binary
+*.pof   binary
+*.jic   binary
+*.rbf   binary
