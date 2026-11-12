@@ -6,6 +6,8 @@ play independent voices: the X coordinate selects the pitch (continuously or
 locked to the notes of the selected scale), the Y coordinate morphs the
 timbre from a sine wave to a band-limited sawtooth.
 
+NOTE: This implementation is far from optimized, as it is intended as a proof of concept.
+
 ## Hardware
 
 - Terasic DE1-SoC (Cyclone V 5CSEMA5F31C6)
