@@ -8,6 +8,8 @@ timbre from a sine wave to a band-limited sawtooth.
 
 NOTE: This implementation is far from optimized, as it is intended as a proof of concept.
 
+[![Short project explanation](https://img.youtube.com/vi/N6T8fDekDA4/hqdefault.jpg)](https://www.youtube.com/watch?v=N6T8fDekDA4)
+
 ## Hardware
 
 - Terasic DE1-SoC (Cyclone V 5CSEMA5F31C6)
