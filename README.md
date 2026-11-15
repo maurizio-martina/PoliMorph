@@ -10,6 +10,8 @@ NOTE: This implementation is far from optimized, as it is intended as a proof of
 
 [![Short project explanation](https://img.youtube.com/vi/N6T8fDekDA4/hqdefault.jpg)](https://www.youtube.com/watch?v=N6T8fDekDA4)
 
+[![Short project demo](https://img.youtube.com/vi/BP-eFHD12Ig/hqdefault.jpg)](https://www.youtube.com/watch?v=BP-eFHD12Ig)
+
 ## Hardware
 
 - Terasic DE1-SoC (Cyclone V 5CSEMA5F31C6)
